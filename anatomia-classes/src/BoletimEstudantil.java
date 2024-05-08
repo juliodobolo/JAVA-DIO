@@ -6,6 +6,6 @@ public class BoletimEstudantil {
         else if (mediaFinal < 6)
             System.out.println("Reprovado");
         else if (mediaFinal == 6)
-            System.out.println("Passou raspando");         
+            System.out.println("Passou raspando!");         
     }
 }
